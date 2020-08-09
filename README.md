@@ -1,4 +1,4 @@
-# Hello World 2020/08/08
+# Hello World 2020/08/09
 
-Q: Whatever happened to the cow that was lifted into the air by the tornado?
-A: Udder disaster!
+Q: What did one mushroom say to the other on Valentine's Day?
+A: "There's so mushroom in my heart for you!"
