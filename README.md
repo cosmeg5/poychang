@@ -1,4 +1,4 @@
-# Hello World 2020/08/09
+# Hello World 2020/08/10
 
-Q: What did one mushroom say to the other on Valentine's Day?
-A: "There's so mushroom in my heart for you!"
+Q: What type of cloud is so lazy, because it will never get up?
+A: Fog!
