@@ -1,4 +1,9 @@
-# Hello World 2020/08/10
+# Hello World 2020/08/11
 
-Q: What type of cloud is so lazy, because it will never get up?
-A: Fog!
+Knock-knock.
+ Who's there?
+ Amish.
+ Amish who?
+ Amish my bus.
+
+
