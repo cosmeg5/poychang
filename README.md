@@ -1,4 +1,4 @@
-# Hello World 2020/08/12
+# Hello World 2020/08/13
 
-Why was the math book sad?
-Because it had so many problems.
+Q: What did the toast say to the butter on Valentine's Day?
+A: You're my butter half!
