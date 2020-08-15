@@ -1,4 +1,6 @@
-# Hello World 2020/08/14
+# Hello World 2020/08/15
 
-Q: Why did Santa put a clock in his sleigh?
-A: Because he wanted to see time fly!
+Q. Why did the teacher have to were sunglasses in school?
+ A. Because the students were so bright.
+
+
