@@ -1,6 +1,9 @@
-# Hello World 2020/08/15
+# Hello World 2020/08/16
 
-Q. Why did the teacher have to were sunglasses in school?
- A. Because the students were so bright.
+Knock Knock
+Who's there?
+Hutch!
+Hutch who?
+Bless you, and I'm right out of tissues!
 
 
