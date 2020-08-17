@@ -1,9 +1,7 @@
-# Hello World 2020/08/16
+# Hello World 2020/08/17
 
 Knock Knock
-Who's there?
-Hutch!
-Hutch who?
-Bless you, and I'm right out of tissues!
-
-
+ Who's there?
+ Grammar!
+ Grammar who!
+ Grammar crackers. Pretty crummy!
