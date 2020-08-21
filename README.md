@@ -1,7 +1,4 @@
-# Hello World 2020/08/20
+# Hello World 2020/08/21
 
-Knock Knock
- Who's there?
- Stu!
- Stu who?
- Stu late to ask questions!
+Q. Why shouldn't you marry a tennis player?
+A. Because Love means nothing to them.
