@@ -1,4 +1,4 @@
-# Hello World 2020/08/21
+# Hello World 2020/08/22
 
-Q. Why shouldn't you marry a tennis player?
-A. Because Love means nothing to them.
+Q: How do hurricanes see?
+A: With one eye!
