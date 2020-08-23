@@ -1,4 +1,8 @@
-# Hello World 2020/08/22
+# Hello World 2020/08/23
 
-Q: How do hurricanes see?
-A: With one eye!
+How many professors does it take to change a light bulb? 
+
+
+None. That's what grad students are for
+
+
