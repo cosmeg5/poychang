@@ -1,8 +1,4 @@
-# Hello World 2020/08/23
+# Hello World 2020/08/24
 
-How many professors does it take to change a light bulb? 
-
-
-None. That's what grad students are for
-
-
+Q: What did one watermelon say to the other on Valentine's Day?
+A: You're one in a melon!
