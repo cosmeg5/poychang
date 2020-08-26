@@ -1,8 +1,4 @@
-# Hello World 2020/08/25
+# Hello World 2020/08/26
 
-How many women does it take to change a light bulb?
-
-
-None. "It's a man's job."
-
-
+Q: What did one raindrop say to the other?
+A: Two's company, three's a cloud
